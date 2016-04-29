@@ -1,6 +1,6 @@
-# java-web-servlet
-mysql -uroot -proot
-source transwins.sql
+# java-web-servlet 	
+mysql -uroot -proot 	
+source transwins.sql 	
 订单管理 	
 客户管理 	
 项目管理 	
