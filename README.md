@@ -1,2 +1,3 @@
 # java-web-servlet
-示例代码
+mysql -uroot -proot
+source transwins.sql
