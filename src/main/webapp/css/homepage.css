@@ -1,0 +1,27 @@
+.hp01 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(/images/b001.jpg); MARGIN: 0px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #18477d; TEXT-DECORATION: none
+}
+.hp02 {
+	BORDER-RIGHT: #186294 0px solid; BORDER-TOP: #186294 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT: #186294 0px solid; COLOR: #ffffff; BORDER-BOTTOM: #186294 0px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #186294
+}
+.hp03 {
+	BORDER-RIGHT: #e5ebee 1px solid; BORDER-TOP: #e5ebee 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; BORDER-LEFT: #e5ebee 1px solid; COLOR: #186294; BORDER-BOTTOM: #e5ebee 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+.hp04 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.hp05 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 0px; COLOR: #7090c3; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: small-caps; TEXT-DECORATION: none
+}
+A.hp06:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #aabbcf; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.hp06:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #aabbcf; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.hp06:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#poweredby {
+	FLOAT: right; PADDING-TOP: 5px
+}
